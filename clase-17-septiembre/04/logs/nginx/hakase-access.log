@@ -1,0 +1,5 @@
+172.17.0.1 - - [23/Sep/2020:04:32:16 +0000] "GET / HTTP/1.1" 302 5 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:80.0) Gecko/20100101 Firefox/80.0"
+172.17.0.1 - - [23/Sep/2020:04:32:18 +0000] "GET /wp-admin/install.php HTTP/1.1" 200 9588 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:80.0) Gecko/20100101 Firefox/80.0"
+172.17.0.1 - - [23/Sep/2020:04:32:18 +0000] "GET /wp-admin/images/wordpress-logo.svg?ver=20131107 HTTP/1.1" 200 1521 "http://localhost:8080/wp-admin/css/install.min.css?ver=4.7.1" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:80.0) Gecko/20100101 Firefox/80.0"
+172.17.0.1 - - [23/Sep/2020:04:32:18 +0000] "GET /wp-admin/images/spinner.gif HTTP/1.1" 200 4162 "http://localhost:8080/wp-admin/css/install.min.css?ver=4.7.1" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:80.0) Gecko/20100101 Firefox/80.0"
+172.17.0.1 - - [23/Sep/2020:04:32:19 +0000] "GET /favicon.ico HTTP/1.1" 200 5 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:80.0) Gecko/20100101 Firefox/80.0"
