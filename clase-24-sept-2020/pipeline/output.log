@@ -1,0 +1,4 @@
+{"host":"e2576d5c60da","@timestamp":"2020-09-24T22:23:43.808Z","@version":"1","message":"Hola mundo desde logstash","path":"/app/input.log"}
+{"host":"e2576d5c60da","@timestamp":"2020-09-24T22:24:34.324Z","@version":"1","message":"hola mundo desde logstash","path":"/app/input.log"}
+{"host":"2ccfe2922825","@version":"1","path":"/app/input.log","message":"hola mundo desde logstash","@timestamp":"2020-09-24T22:36:09.391Z"}
+{"path":"/app/input.log","host":"2ccfe2922825","@timestamp":"2020-09-24T22:40:57.069Z","message":"hola mundo desde logstash","@version":"1"}
