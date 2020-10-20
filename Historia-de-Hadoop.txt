@@ -1,0 +1,12 @@
+﻿El origen de Hadoop comienza en el 2004, fue creado por el Ingeniero de Software Doug Cutting, le puso este nombre por el elefante de juguete de su
+hijo, también uso como logo el mismo elefante de color amarillo. Hadoop fue desarrollado originalmente  para contribuir a la mejora de Nuch, ya que
+en el 2001 fue lanzado el rastreador web (araña) que tenía ciertas limitantes, Hadoop permitió que se tenga libertad para jugar y explorar los
+datos del mundo, ya que emplea técnicas para manejar grandes volúmenes de datos, desgranándolos en problemas cada vez más pequeños para hacerlos
+abordables. Poco después Doug Cutting se fue a trabajar a Yahoo en donde continuo con su investigación hasta completar el desarrollo de la
+plataforma en el 2008. Hadoop fue utilizado en primera instancia por Yahoo, pero la tecnología era tan buena que grandes compañías internet
+comenzaron a usarla tales como Facebook, Twitter o eBay. Como Hadoop fue creado en un concepto de Open Source, las grandes compañías de internet no
+solo comenzaron a usar la tecnología, si no que comenzaron a desarrollar herramientas y marcos de respaldo para el ecosistema de Hadoop.  Como
+resultado nació un conjunto de soluciones en el entorno Apache: HDFS Apache, Apache MapReduce y Apache HBase; que se conocen como Hadoop, con
+herramientas como Sqoop (para importar datos estructurados en Hadoop cluster) o NoSQL (para realizar el análisis de los datos no estructurados)
+entre otros. En el 2012, el clúster de Hadoop de Yahoo ya contaba con 42 000 nodos y el numero de contibuyentes de Hadoop alcanzo los 1200. Hadoop
+revolucionó el almacenamiento de datos e hizo posible mantener todos los datos, sin importar lo importante que sea.
